@@ -1,6 +1,6 @@
 ## Hi! I'm Poliana Nazario
  - 🎓 Web Design and Development Student
- - 💻 Digital Content Creator
+ 
 
 <div align="center">
   <a href="https://github.com/Polinazario">

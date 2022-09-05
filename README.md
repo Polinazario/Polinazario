@@ -1,5 +1,6 @@
 ## Hi! I'm Poliana Nazario
- - 🎓 Web Design and Development Student
+ - Front-End Developer
+ - UI/UX Designer
  
   ##
   

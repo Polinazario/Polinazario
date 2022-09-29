@@ -1,6 +1,6 @@
 ## Hi! I'm Poliana Nazario
- - Front-End Developer
- - UI/UX Designer
+ - Web Graphic Designer
+
  
   ##
   

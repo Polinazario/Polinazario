@@ -1,5 +1,5 @@
 ## Hi! I'm Poliana Nazario
- - Web Graphic Designer
+ - Web Designer
 
  
   ##
